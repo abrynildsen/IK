@@ -135,7 +135,6 @@ qdcheck_LM = rad2deg(qcheck_LM);
 qd_NR = rad2deg(q_NR);
 qdcheck_NR = rad2deg(qcheck_NR);
 
-%%
 tickfontsize = 16;
 figure(1)
 subplot(1,3,1)
